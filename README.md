@@ -1,1 +1,3 @@
-# analysis-mobility-economy
+# Analysis-mobility-economy
+El objetivo de este análisis es entregar un reporte para entender cómo la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) se relaciona con la productividad económica (PIB per cápita, desempleo) en las principales ciudades del mundo, identificando en qué ciudades invertir en infraestructura de transporte para aumentar la productividad y el bienestar de la población.
+Se trabajó con 2 fuentes de datos (movilidad urbana y economía urbana), primero realizando una limpieza y estandarización de la información para después construir una tabla unificada que combine variables de movilidad urbana con variables económicas para ciudades del año 2024. Por último se crearon visualizaciones que ayudaron a comprender de mejor forma la relación entre la movilidad y la economía de las ciudades.
